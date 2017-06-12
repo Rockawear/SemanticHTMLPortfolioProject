@@ -39,6 +39,10 @@ p, ul {
   margin-left: 30px;;
 }
 
+.projects {
+    text-align: left
+}
+
 a {
   color: #00b8d4;
   font-weight: 600;
@@ -139,6 +143,11 @@ footer {
   margin-top: 2em;
   background-color: #444;
   color: #eee;
+}
+
+.contactInfo{
+    text-align: left;
+    display: inline-block;
 }
 footer h1 {
   font-size: 16px;
